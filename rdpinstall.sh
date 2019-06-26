@@ -39,5 +39,7 @@ echo "Everything is ok"
 yum groupinstall "Server with GUI" -y
 
 echo "Installing desktop gui"
+
+#yum update grub2-common
 #yum install fwupdate-efi
 #yum groupinstall "Server with GUI" -y --skip-broken
