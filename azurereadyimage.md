@@ -142,7 +142,7 @@ The Oracle software is already installed on the Marketplace image. Create a samp
     dbca -silent -createDatabase -templateName General_Purpose.dbc -gdbname cdb1 -sid cdb1 -responseFile NO_VALUE -characterSet AL32UTF8 -sysPassword OraPasswd1 -systemPassword OraPasswd1 -createAsContainerDatabase true -numberOfPDBs 1 -pdbName pdb1 -pdbAdminPassword OraPasswd1 -databaseType MULTIPURPOSE -automaticMemoryManagement false -ignorePreReqs
 
 
-    It takes a few minutes to create the database.
+>It takes a few minutes to create the database.
 
 3. Set Oracle variables
 
