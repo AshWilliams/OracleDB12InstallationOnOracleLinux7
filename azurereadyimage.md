@@ -309,7 +309,7 @@ The final task is to configure some external endpoints. To set up the Azure Netw
 
 You can log in by using the **SYS** account, and check the **as sysdba** checkbox. Use the password **OraPasswd1** that you set during installation. 
 
-![Screenshot of the Oracle OEM Express login page](./media/oracle-quick-start/oracle_oem_express_login.png)
+![Screenshot of the Oracle OEM Express login page](https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/oracle/media/oracle-quick-start/oracle_oem_express_login.png)
 
 ## Clean up resources
 
